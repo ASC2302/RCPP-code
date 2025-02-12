@@ -10,6 +10,3 @@ $(EXECUTABLE): $(SOURCES)
 
 clean:
 	rm -f $(EXECUTABLE)
-
-
-	"C:\Users\chiti\Desktop"
