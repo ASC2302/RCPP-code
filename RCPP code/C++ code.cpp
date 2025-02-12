@@ -1,3 +1,4 @@
+#include <Rcpp.h>
 #include <iostream>
 #include <vector>
 #include <map>
